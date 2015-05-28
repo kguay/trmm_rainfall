@@ -30,6 +30,18 @@ This application provides a graphical user interface for interactively plotting 
 
 The majority of this application's code is in the class ImageView. Below is a list of all of the pertinent classes. The application consists of a main window which is set up in MainView as well as an ImageView which displays the map/ graph, the InfoView which displays messages to the user, and the OptionView which offers the user various options in addition to the menubar.
 
+<img src='/doc/img/world_map.png?raw=true'>
+
+*World Map*
+
+<img src='/doc/img/amazon_map.png?raw=true'>
+
+*Amazon Map*
+
+<img src='/doc/img/amazon_rain_fire_plot.png?raw=true'>
+
+*Plot showing rainfall and fire events at a location in the Amazon*
+
 ####MAIN CLASSES
 
 **MainView**
