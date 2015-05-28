@@ -33,7 +33,7 @@ The majority of this application's code is in the class ImageView. Below is a li
 **World Map**
 <img src='/doc/img/world_map.png?raw=true'>
 
-**Plot showing rainfall in Bigelow, Maine**
+**Plot showing rainfall in Boothbay, Maine**
 <img src='/doc/img/boothbay_rain_plot.png?raw=true'>
 
 **Amazon Map**
