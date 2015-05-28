@@ -5,11 +5,14 @@ written by Kevin C. Guay during the summer of 2011
 
 *A JavaDoc documentation website can be found in the doc directory.*
 
-<applet code="bin/TRMMApplet.class" width="200" height ="600">
-
 **Overview**
 
 This application provides a graphical user interface for interactively plotting data from NASA's Tropical Rainfall Measurement Mission (TRMM). 
+
+**To Run**
+
+* Run trmm.jar
+* Or compile and run src/MainView.java (see note about flicker bug)
 
 **Features**
 
@@ -23,6 +26,8 @@ This application provides a graphical user interface for interactively plotting 
 **Known Bugs**
 
 * Application refreshes on MouseMove event. Creates blinking effect.
+	* When compiled on Mac running OSX 10.10.3 and Java 6
+	* Flicker does not occur in the Jar file that was compiled in 2011 using Ubuntu
 
 **Application Notes**
 
