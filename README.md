@@ -23,31 +23,6 @@ This application provides a graphical user interface for interactively plotting 
 
 **Known Bugs**
 
-* Compiling the application on a Mac running OSX 10.10.3 and Java 6 causes the screen to flicker.TRMM Viewer
-=========================
-
-written by Kevin C. Guay during the summer of 2011
-
-**Overview**
-
-This application provides a graphical user interface for interactively plotting data from NASA's Tropical Rainfall Measurement Mission (TRMM). 
-
-**To Run**
-
-* Run `rainfall_plotter.jar`
-* Or run `java bin/MainView` (see note about flicker bug)
-
-**Features**
-
-* Pre-loads the data in order to quickly generate maps
-* Choose any latitude/ longitude coordinate by clicking on a map (world map or map of the Amazon rainforest)
-* Generates a colormap of rainfall for the specified location (years on y axis & months on x axis)
-* Quickly and easily change visual appearance of the map using menu bars (e.g. change background color, color scale, etc.)
-* Overlay forest fires (from MODIS Aqua & Terra) on top of charts generated for location within the Amazon rainforest
-* Overlay rainfall amounts (mm/month) on chart
-
-**Known Bugs**
-
 * Compiling the application on a Mac running OSX 10.10.3 and Java 6 causes the screen to flicker.
 	* Flicker does not occur in the Jar file that was compiled in 2011 using Ubuntu
 
