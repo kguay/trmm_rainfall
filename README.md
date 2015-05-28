@@ -3,15 +3,13 @@ TRMM Viewer
 
 written by Kevin C. Guay during the summer of 2011
 
-*A JavaDoc documentation website can be found in the doc directory.*
-
 **Overview**
 
 This application provides a graphical user interface for interactively plotting data from NASA's Tropical Rainfall Measurement Mission (TRMM). 
 
 **To Run**
 
-* Run rainfall_plotter.jar
+* Run `rainfall_plotter.jar`
 * Or run `java bin/MainView` (see note about flicker bug)
 
 **Features**
@@ -30,7 +28,7 @@ This application provides a graphical user interface for interactively plotting 
 
 **Application Notes**
 
-The majority of this application's code is in the class ImageView. Below is a list of all of the pertinent classes. The application consists of a main window which is set up in MainView as well as an ImageView which displays the map/ graph, the InfoView which displays messages to the user, and the Option View which offers the user various options in addition to the menubar.
+The majority of this application's code is in the class ImageView. Below is a list of all of the pertinent classes. The application consists of a main window which is set up in MainView as well as an ImageView which displays the map/ graph, the InfoView which displays messages to the user, and the OptionView which offers the user various options in addition to the menubar.
 
 ####MAIN CLASSES
 
