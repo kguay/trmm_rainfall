@@ -39,7 +39,7 @@ The majority of this application's code is in the class ImageView. Below is a li
 **Amazon Map**
 <img src='/doc/img/amazon_map.png?raw=true'>
 
-**Plot showing rainfall and fire events at a location in the Amazon**
+**Plot showing rainfall and fire events in Rio Capim, Brazil**
 <img src='/doc/img/amazon_rain_fire_plot.png?raw=true'>
 
 ####MAIN CLASSES
