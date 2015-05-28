@@ -25,8 +25,7 @@ This application provides a graphical user interface for interactively plotting 
 
 **Known Bugs**
 
-* Application refreshes on MouseMove event. Creates blinking effect.
-	* When compiled on Mac running OSX 10.10.3 and Java 6
+* Compiling the application on a Mac running OSX 10.10.3 and Java 6 causes the screen to flicker.
 	* Flicker does not occur in the Jar file that was compiled in 2011 using Ubuntu
 
 **Application Notes**
