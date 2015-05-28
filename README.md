@@ -96,6 +96,3 @@ The majority of this application's code is in the class ImageView. Below is a li
 * This class is used to generate the Applet version of the program (i.e. online version).  
   
 All of the data is stored in the directories: data, data_brazil, fire and images files.
-  	
-	* Flicker does not occur in the Jar file that was compiled in 2011 using Ubuntu
-
