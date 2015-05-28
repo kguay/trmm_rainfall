@@ -11,8 +11,8 @@ This application provides a graphical user interface for interactively plotting 
 
 **To Run**
 
-* Run trmm.jar
-* Or compile and run src/MainView.java (see note about flicker bug)
+* Run rainfall_plotter.jar
+* Or run `java bin/MainView` (see note about flicker bug)
 
 **Features**
 
